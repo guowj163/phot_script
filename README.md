@@ -1,7 +1,10 @@
 # alipy_install
 alipy address is https://github.com/zzxihep/alipy
+python setup.py install
+
 alipy need the f2n
 f2n address is https://github.com/zzxihep/f2n
+python setup.py install
 
 before run f2n ,you need to install sextractor and a link for sex to sextractor
 
